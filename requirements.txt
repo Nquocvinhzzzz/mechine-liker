@@ -1,1 +1,2 @@
-time, re, requests, colorama
+requests
+colorama
