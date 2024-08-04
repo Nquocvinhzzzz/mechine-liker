@@ -131,7 +131,7 @@ class Machine:
                 7: angry
             \033[0m""")
         # select = input("Nhập số: ")
-        select = 2
+        select = '2'
         self.list_select = [self.dict_buff[x] for x in select]
         while True:
             for session in self.session:
